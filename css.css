@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(219, 240, 240);
+    justify-content: center;align-items: center;font-style: italic;
+}
+form{
+    background-color: wheat;
+    width: 400px;
+    margin-left: 444px;justify-content: center;align-items: center;
+    height: 588px auto;
+    margin-bottom: 66px;font-style: italic;
+}
+form .in{
+    align-items: center;
+    width: 222px;
+    margin-left: 92px;
+    margin-top: 22px;
+    height: 33px;
+    color: rgb(88, 13, 13);
+    font-size: 15px;
+    font-style: italic;
+}
+form .gen{
+font-size: 22px;
+    margin-left: 93px;
+}
+form .btn{
+ margin-left: 127px;
+padding: 11px;
+color: rgb(53, 6, 6);font-size: larger;background-color: rgb(173, 192, 209);
+margin-top: 27px;width: 155px;
+}
+form .btn2{
+
+margin-left: 127px;
+padding: 5px;
+color: rgb(53, 6, 6);font-size: larger;background-color: rgb(209, 209, 173);
+margin-top: 27px;width: 155px;
+}
+
+h2{
+    align-items: center;margin-left: 588px;
+}
+form .txt{
+
+    margin-left: 155px;
+    margin-top: 11px;font-size: 22px;
+}
+form .btn:hover{
+    cursor: pointer;
+    font-size: 22px;background-color: rgb(151, 187, 218);
+}
